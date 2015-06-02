@@ -1,0 +1,44 @@
+body {
+	/*font*/
+	margin:0 0 0 0;
+	font-family: 'Open Sans', sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.grey{
+    background-color:#ccc;
+    padding:20px;
+}
+
+.navbar-default{
+	margin-bottom: 0;
+}
+
+.jumbotron{
+	margin-bottom: 0;
+	padding-top: 15px;
+	padding-bottom: 30px;
+}
+
+#Mlogo{
+	height:150%;
+}
+
+h2{
+	margin-top: 0;
+}
+
+#filterDiv{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+
+#footer-section{
+	background-color: black;
+	color:white;
+}
+
+p{
+	margin-bottom: 0;
+}
